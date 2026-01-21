@@ -3,7 +3,7 @@
 # ============================================
 # BOT SETTINGS
 # ============================================
-BOT_TOKEN = "7690576851:AAEjOcOCLspYdV6cscvl6coxxOS_vZDDj2I"
+BOT_TOKEN = "8569593826:AAH_0I5WS_y_D-fYYeCpKxwXCVQhhBCl9fo"
 
 # PostgreSQL Database URL (Neon - Singapore)
 DATABASE_URL = "postgresql://neondb_owner:npg_K6PCkLmdJpr2@ep-bitter-sunset-a1vhjzwx-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require"
@@ -87,3 +87,4 @@ VIDEO_NOT_FOUND_MESSAGE = """
 
 এই video টি পাওয়া যায়নি অথবা মুছে ফেলা হয়েছে।
 """
+
